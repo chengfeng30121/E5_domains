@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "cf3012.eu.org",
+  "Id": "7d41080f-36d9-4df0-ba6e-d7ee2a18c08d"
+}
